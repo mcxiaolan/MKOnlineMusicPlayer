@@ -1,6 +1,6 @@
 MxuePlay（原MKOnlineMusicPlayer）
 ========
-MxuePlay是MKOnlineMusicPlayer的优化版，MKOnlineMusicPlayer 是一款开源的基于 `Meting` 的在线音乐播放器。具有音乐搜索、播放、下载、歌词同步显示、个人网易云音乐播放列表同步等功能。
+MxuePlay是 MKOnlineMusicPlayer 的优化版，MKOnlineMusicPlayer 是一款开源的基于 `Meting` 的在线音乐播放器。具有音乐搜索、播放、下载、歌词同步显示、个人网易云音乐播放列表同步等功能。
 
 前端界面参照 QQ 音乐网页版进行布局，同时采用了流行的响应式设计，无论是在PC端还是在手机端，均能给您带来原生 app 般的使用体验。
 
