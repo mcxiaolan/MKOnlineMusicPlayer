@@ -315,9 +315,9 @@ $(function(){
 
     // 移动端不显示评论框
     if (rem.isMobile) {
-        $('.banner_text').hide();
+        $('.banner_text').comments();
     } else if (!mkPlayer.comments) {
-        $('.banner_text').hide();
+        $('.banner_text').comments();
     }
 });
 
