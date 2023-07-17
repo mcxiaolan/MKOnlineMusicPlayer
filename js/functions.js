@@ -313,6 +313,7 @@ $(function(){
     // 初始化播放列表
     initList();
 
+});
 
 // 播放时长处理函数
 function getAudioTime () {
